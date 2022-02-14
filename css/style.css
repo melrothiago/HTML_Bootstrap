@@ -1,0 +1,35 @@
+body{
+    font: 20px Dejavu, sans-serif;
+}
+.navbar{
+    background-color: #9e95f6;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin-content{
+    padding-top: 50px;
+}
+
+.quem-somos{
+    background-color: #6c4173;
+    color: #B182de;
+}
+
+.parceiros{
+    background-color: #B182de;
+    color: purple;
+}
+
+.servicos{
+    background-color: #E2A9F3;
+    color: purple;
+}
+
+.bg-dev{
+    background-color: #ff9393;
+}
+
